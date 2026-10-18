@@ -1,0 +1,11 @@
+{
+  "org": "msgpack",
+  "repo": "msgpack-python",
+  "versions": [
+    {
+      "commit": "874b828d9bfed863e0603cc462b550813cc92f15",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:47:21.939763+00:00"
+    }
+  ]
+}
