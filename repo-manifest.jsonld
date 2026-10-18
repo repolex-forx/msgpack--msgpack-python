@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/msgpack/msgpack-python/commit/874b828d9bfed863e0603cc462b550813cc92f15",
       "git:hexsha": "874b828d9bfed863e0603cc462b550813cc92f15",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/msgpack/msgpack-python/commit/1a81f6364dcb4356d26b8e3ae48966a9c2a66832",
